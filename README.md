@@ -8,7 +8,7 @@
 - MaterialUI
 
 ## Home
-![Juan's_Gym_Techniques](https://user-images.githubusercontent.com/94949664/174950472-aac714af-9a98-4f54-a53d-0a701a726483.png)
+![gymHome](https://user-images.githubusercontent.com/94949664/174951862-94928090-bfdf-407a-aa35-5fb132ce5722.gif)
 
 ## Browse by category or find results using the search bar
 ![showGym](https://user-images.githubusercontent.com/94949664/174951005-1a6bf61b-80c1-41ac-b2b7-3297dbfb8e2a.gif)
