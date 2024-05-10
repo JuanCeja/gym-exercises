@@ -14,6 +14,7 @@ const SearchExercises = ({setExercises, bodyPart, setBodyPart}) => {
       const bodyPartsData = await fetchData('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', exerciseOptions);
 
       setBodyParts(['all', ...bodyPartsData]);
+      console.log(bodyParts, 'this is our body parts list')
     }
 
     fetchExercisesData();
